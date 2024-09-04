@@ -21,3 +21,4 @@ export default function Guitar({guitar, addToCart}) {
         </div>
     )
 }
+//este ess el que trabaje dede descargalo del curso no es la copia
